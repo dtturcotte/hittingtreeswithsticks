@@ -1,0 +1,73 @@
+{
+	"Lee" : {
+		"Introductions" :
+		{
+			"chinese" :
+			[
+				"I'm Lee , part of the Triad gang."				
+			],
+			"english" :
+			[
+				""
+			],
+			"userResponse" :	
+			[
+				"ni hao wo shì"
+			],
+			"userResponse_en" :	
+			[
+				"Hello I am _____"
+			
+			],
+			"wordBank" : 
+			{
+				"ni" 	: "You",
+				"hao"	: "good",
+				"wo"	: "I",
+				"shì"	: "am"
+			},
+			"phrase" :
+			{
+				"Ni hao" 	: "Hello",
+				"Wo shì"	: "I am"
+			}
+
+		}
+	},
+	"Bob" : {
+		"Introductions" :
+		{
+			"chinese" :
+			[
+				"I'm Lee , part of the Triad gang."				
+			],
+			"english" :
+			[
+				""
+			],
+			"userResponse" :	
+			[
+				"ni hao wo shì"
+			],
+			"userResponse_en" :	
+			[
+				"Hello I am _____"
+			
+			],
+			"wordBank" : 
+			{
+				"ni" 	: "You",
+				"hao"	: "good",
+				"wo"	: "I",
+				"shì"	: "am"
+			},
+			"phrase" :
+			{
+				"Ni hao" 	: "Hello",
+				"Wo shì"	: "I am"
+			}
+
+		}
+	}
+		
+}

@@ -1,0 +1,573 @@
+{
+	"Lee" : {
+		"1 - Introductions" :
+		{
+			"chinese" :
+			[			
+				"I'm Lee , part of the Triad gang.",
+				"First tone is pronounced with a light, flat sound, such as mā , meaning 'Mother'"	
+			],
+			"english" :
+			[
+				""
+			],
+			"userResponse" :	
+			[
+				"nǐ hǎo wǒ shì"
+			],
+			"userResponse_en" :	
+			[
+				"Hello I am _____"
+			
+			],
+			"wordBank" : 
+			{
+				"nǐ" 	: "You",
+				"hǎo"	: "good",
+				"wǒ"	: "I",
+				"shì"	: "am"
+			},
+			"phrase" :
+			{
+				"nǐ hǎo" 	: "Hello",
+				"wǒ shì"	: "I am"
+			},
+			"success_cn" :
+			[
+				"Well done..."
+			],
+			"success_en" :
+			[
+				""
+			],
+			"fail_cn" :
+			[
+				"Try again..." 
+			],
+			"gather" : 
+			{}			
+		},
+		"2 - Manners" : 
+		{
+			"chinese" :
+			[
+				"Now, good manners will get you far around here...",
+				"Thanks is ' Xièxiè ' ",
+				"You're welcome is ' Bù kèqì '",
+				"You try..."
+			],
+			"english" :
+			[
+				""
+			],
+			"userResponse" :
+			[
+				"xièxiè"
+			],
+			"userResponse_en" :
+			[
+				"Thank you"
+			
+			],
+			"wordBank" :
+			{
+				"xièxiè" : "Thank you"
+			},
+			"phrase" :
+			{},
+			"success_cn" :
+			[
+				"Bù kèqì ! You're welcome!"
+			],
+			"success_en" :
+			[
+				"You're welcome"
+			],
+			"fail_cn" :
+			[
+				"One more time..."
+			],
+			"fail_en" :
+			[
+				""
+			],	
+			"gather" : 
+			{}
+		},
+		"3 - Eating" :
+		{
+			"chinese" :
+			[
+				"Okay... looks like you're getting the hang of it. ",
+				"We've got a lot for you to do...", 
+				"so I think you'll need something to eat.",
+				"Do you want to eat?",
+				"I want to eat is: wǒ yào chī ."
+			],
+			"english" :
+			[
+				""
+			],
+			"userResponse" :
+			[
+				"wǒ yào chī"
+			],
+			"userResponse_en" :
+			[
+				"Hello I am _____"
+			
+			],
+			"wordBank" :
+			{
+				"wǒ" 	: "I",
+				"yào"	: "want",
+				"chī"	: "eat"
+			},
+			"phrase" :
+			{},
+			"success_cn" :
+			[
+				"Well done..."
+			],
+			"success_en" :
+			[
+				""
+			],
+			"fail_cn" :
+			[
+				"Sorry, I didn't get that."
+			],
+			"fail_en" :
+			[
+				""
+			],
+			"gather" : 
+			{}
+		},
+		"4 - Like/Dislike" :
+		{
+			"chinese" :
+			[
+				"Okay... What do you like to eat?",
+				"In Mandarin: Nǐ xǐhuan chī shénme dōngxi?"
+			],
+			"english" :
+			[
+				""
+			],
+			"userResponse" :
+			[
+				"wǒ xǐhuan chī fàn ."
+			],
+			"userResponse_en" :
+			[
+				"I like to eat rice"
+			
+			],
+			"wordBank" :
+			{
+				"wǒ" 	: "I",
+				"xǐhuan": "like",
+				"chī"	: "eat",
+				"fàn"	: "rice"
+			},
+			"phrase" :
+			{
+
+			},
+			"success_cn" :
+			[
+				"Okay. Good to know. Try asking me a question"
+			],
+			"success_en" :
+			[
+				""
+			],
+			"fail_cn" :
+			[
+				"What? I didn't understand you... try that again..."
+			],
+			"fail_en" :
+			[
+				""
+			],
+			"gather" : 
+			{}				
+		},
+		"5 - Ask a Question" :
+		{
+			"chinese" :
+			[
+				""
+			],
+			"english" :
+			[
+				""
+			],
+			"userResponse" :
+			[
+				"nǐ xǐhuan chī shénme dōngxi ?"
+			],
+			"userResponse_en" :
+			[
+				"what do you like to eat?"
+			
+			],
+			"wordBank" :
+			{
+				"nǐ" 	: "you",
+				"xǐhuan": "like",
+				"chī"	: "eat",
+				"shénme": "what",
+				"dōngxi": "thing"			
+			},
+			"phrase" :
+			{
+
+			},
+			"success_cn" :
+			[
+				"wǒ xǐhuan chī fàn , ròu , hé shūcài"
+			],
+			"success_en" :
+			[
+				"I like to eat rice, meat, and vegetables."
+			],
+			"fail_cn" :
+			[
+				"What? I didn't understand you... try that again..."
+			],
+			"fail_en" :
+			[
+				""
+			],
+			"gather" : 
+			{}				
+		},
+		"6 - Actions" :
+		{
+			"chinese" :
+			[
+				"Good job so far...",
+				"So... you're hungry. Can you help me grab stuff to cook?",
+				"To say 'I can', say:  wǒ kěyǐ ",
+				"And, to help me find something is: bāng wǒ zhǎo dōngxi ",
+				"So, let me ask... Can you help me find something to eat?",
+				"In Mandarin: nǐ kěyǐ bāng wǒ zhǎo dōngxi chī ma",
+				"So... what do you think... can you help me find something to eat?"
+			],
+			"english" :
+			[
+				""
+			],
+			"userResponse" :
+			[
+				"wǒ kěyǐ bāng nǐ zhǎo dōngxi chī"
+			],
+			"userResponse_en" :
+			[
+				"I can help you find something to eat"
+			
+			],
+			"wordBank" :
+			{
+				"wǒ" 	: "I",
+				"kěyǐ"	: "can",
+				"bāng"	: "help",
+				"nǐ"	: "you",
+				"zhǎo"	: "search for",
+				"dōngxi": "something",
+				"chī" 	: "eat"
+				
+			},
+			"phrase" :
+			{
+			
+			},
+			"success_cn" :
+			[
+				"Okay, great."
+			],
+			"success_en" :
+			[
+				""
+			],
+			"fail_cn" :
+			[
+				"Nope. Close though..."
+			],
+			"fail_en" :
+			[
+				""
+			],
+			"gather" : 
+			{}				
+		},	
+		"7 - Counting" :
+		{
+			"chinese" :
+			[
+				"I'll need three foods from the kitchen.",
+				"First, we should get familiar with the numbers...",
+				"So let's try counting.",
+				"yī : one, èr : two, sān: three",
+				"sì : four, wǔ : five, liù : six",
+				"qī : seven, bā : eight, jiǔ : nine, shí : ten",
+				"Okay... you give it a shot..."
+			],
+			"english" :
+			[
+				""
+			],
+			"userResponse" :
+			[
+				"yī èr sān sì wǔ liù qī bā jiǔ shí"
+			],
+			"userResponse_en" :
+			[
+				"one two three four five six seven eight nine ten"
+			
+			],
+			"wordBank" :
+			{
+				"yī" : "one"	
+			},
+			"phrase" :
+			{
+
+			},
+			"success_cn" :
+			[
+				"Good job. You've counted to 10..."
+			],
+			"success_en" :
+			[
+				""
+			],
+			"fail_cn" :
+			[
+				"Nope, you didn't count correctly. Try that again..."
+			],
+			"fail_en" :
+			[
+				""
+			],
+			"gather" : 
+			{}				
+		},
+		"8 - Gather Food" :
+		{
+			"chinese" :
+			[
+				"Okay, let's put it all together...",
+				"I'm going to try and speak some basic Mandarin to you...",
+				"nǐ qù chúfáng zhǎo sì gè dōngxi",
+				"yī gè fàn, yī gè ròu, yī gè shūcài, hé yī gè wǎn",
+				"... Got that so far? So you're going to the kitchen to get 4 items...",
+				"By the way, don't forget to use your dictionary (key d) if you need help",
+				"Okay...",
+				"Ránhòu, gěi wǒ suǒyǒu de dōngxi",
+				"... Then give me all those things...",
+				"Then I'll be able to cook up some food.",
+				"Okay. Go find those things!"
+			],
+			"english" :
+			[
+				"",
+				"",
+				"Go to the kitchen and find me 4 items",
+				"1 rice, 1 meat, 1 vegetable, and 1 bowl",
+				"",
+				"",
+				"",
+				"Then, give me all those things",
+				"",
+				"",
+				""		
+			],
+			"wordBank" :
+			{
+				"fàn" 	: "rice"
+			},				
+			"success_cn" :
+			[
+				"Hěn hǎo . Wǒmen chī ba"
+			],
+			"success_en" :
+			[
+				"Great. Let's eat."
+			],
+			"fail_cn" :
+			[
+				"You didn't get all the items..."
+			],
+			"fail_en" :
+			[
+				""
+			],
+			"gather" : 
+			{
+				"Rice" : {
+					"imageName" : "rice", 
+					"cn"		: "fàn", 
+					"x" 		: "100", 
+					"y"			: "110"
+				},
+				"Meat" : {
+					"imageName" : "meat", 
+					"cn"		: "ròu", 
+					"x"			: "200", 
+					"y"			: "80"
+				}
+			}	
+		},
+		"task8" :
+		{
+			"chinese" :
+			[
+				"Alright... last thing",
+				"Of course, it's extremely important to be polite...",
+				"Xièxiè is thank you",
+				"Bù kèqì is you're welcome",
+				"You try..."
+			],
+			"english" :
+			[
+				"Hello"
+			],
+			"userResponse" :	
+			[
+				"xièxiè"
+			],
+			"userResponse_en" :
+			[
+				"I am very happy to meet you"
+			
+			],
+			"wordBank" :
+			{
+				"xièxiè" : "thanks",
+				"Bù"	: "not/no",
+				"kèqì"	: "polite"
+			},
+			"phrase" :
+			{
+				"Bù kèqì" : "You're welcome"
+			},
+			"success_cn" :
+			[
+				" Bù kèqì "
+			],
+			"success_en" :
+			[
+				"You're welcome"
+			],
+			"fail_cn" :
+			[
+				"Nope."
+			],
+			"fail_en" :
+			[
+				""
+			],
+			"gather" : 
+			{}					
+		},
+		"task9" :
+		{
+			"chinese" :
+			[
+				"Go talk to Bob..."
+			],
+			"english" :
+			[
+				"Hello"
+			],
+			"userResponse" :
+			[
+				"hǎo ba"
+			],
+			"userResponse_en" :
+			[
+				"I am very happy to meet you"
+			
+			],
+			"wordBank" :
+			{
+				"hǎo": "Good",
+				"ba": "partical"
+			},
+			"phrase" :
+			{ 
+				"hǎo ba": "Sure"
+			},
+			"success_cn" :
+			[
+				"zai jian"
+			],
+			"success_en" :
+			[
+				"See you later"
+			],
+			"fail_cn" :
+			[
+				"You're not going to go?" 
+			],
+			"fail_en" :
+			[
+				""
+			],
+			"gather" : 
+			{}					
+		}
+	},
+	"Bob" : {
+		"task9" :
+		{
+			"chinese" :
+			[
+				"Go talk to Bob..."
+			],
+			"english" :
+			[
+				"Go talk to Bob..."
+			],
+			"userResponse" :
+			[
+				"hǎo ba"
+			],
+			"userResponse_en" :
+			[
+				"I am very happy to meet you"
+			
+			],
+			"wordBank" :
+			{
+				"hǎo": "Good",
+				"ba": "partical"
+			},
+			"phrase" :
+			{
+				"hǎo ba" : "Sure"
+			},
+			"success_cn" :
+			[
+				"zai jian"
+			],
+			"success_en" :
+			[
+				"See you later"
+			],
+			"fail_cn" :
+			[
+				"You're not going to go?" 
+			],
+			"fail_en" :
+			[
+				""
+			],
+			"gather" : 
+			{}					
+		}
+	}	
+}

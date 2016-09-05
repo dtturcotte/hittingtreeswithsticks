@@ -1,0 +1,104 @@
+﻿{
+	"Lee" : {
+		"Task 1" :
+		{
+			"chinese" :
+			[
+				"I'm Lee , part of the Triad gang."				
+			],
+			"english" :
+			[
+				""
+			],
+			"userResponse" :	
+			[
+				"ni hao wo Shì"
+			],
+			"userResponse_en" :	
+			[
+				"Hello I am _____"
+			
+			],
+			"wordBank" : 
+			{
+				"ni" 	: "You",
+				"hao"	: "good",
+				"wo"	: "I",
+				"Shì"	: "am"
+			},
+			"phrase" :
+			{
+				"Ni hao" 	: "Hello",
+				"Wo Shì"	: "I am"
+			}
+		},
+		"Task 2" :
+		{
+			"chinese" :
+			[
+				"I'm Lee , part of the Triad gang."				
+			],
+			"english" :
+			[
+				""
+			],
+			"userResponse" :	
+			[
+				"ni hao wo Shì"
+			],
+			"userResponse_en" :	
+			[
+				"Hello I am _____"
+			
+			],
+			"wordBank" : 
+			{
+				"ni" 	: "You",
+				"hao"	: "good",
+				"wo"	: "I",
+				"Shì"	: "am"
+			},
+			"phrase" :
+			{
+				"Ni hao" 	: "Hello",
+				"Wo Shì"	: "I am"
+			}
+		}
+	},
+	"Bob" : {
+		"Task 1" :
+		{
+			"chinese" :
+			[
+				"I'm Lee , part of the Triad gang."				
+			],
+			"english" :
+			[
+				""
+			],
+			"userResponse" :	
+			[
+				"ni hao wo sh�"
+			],
+			"userResponse_en" :	
+			[
+				"Hello I am _____"
+			
+			],
+			"wordBank" : 
+			{
+				"ni" 	: "You",
+				"hao"	: "good",
+				"wo"	: "I",
+				"sh�"	: "am"
+			},
+			"phrase" :
+			{
+				"Ni hao" 	: "Hello",
+				"Wo sh�"	: "I am"
+			}
+
+		}
+	}
+		
+}
